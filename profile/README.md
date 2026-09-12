@@ -1,27 +1,18 @@
-# Inmersion Computer Science
+# Inmersion-CS
 
-Open-source learning environments that make complex ideas observable, practical, and easier to explore.
+Open-source software and learning projects for computer science and related university subjects.
 
-This organization brings together focused web projects across computing, mathematics, information systems, language, management, culture, and workplace safety.
+Projects are scoped around specific subjects so current capabilities, development work, and roadmaps stay easy to understand.
 
-## Projects
+## Areas
 
-| Project | Focus |
-| --- | --- |
-| [Architecture](https://github.com/Inmersion-CS/Architecture) | Computer architecture and systems |
-| [Calculus](https://github.com/Inmersion-CS/Calculus) | Interactive calculus learning |
-| [Java](https://github.com/Inmersion-CS/Java) | Java programming foundations |
-| [InfoSystems](https://github.com/Inmersion-CS/InfoSystems) | Information systems and modeling |
-| [English](https://github.com/Inmersion-CS/English) | Technical English and academic communication |
-| [Management](https://github.com/Inmersion-CS/Management) | Management and decision-making |
-| [Japan](https://github.com/Inmersion-CS/Japan) | Japanese history and culture |
-| [Safety](https://github.com/Inmersion-CS/Safety) | Occupational health, safety, and ergonomics |
+`Computer systems` · `Programming` · `Mathematics` · `Information systems` · `Supporting university subjects`
 
-## Engineering principles
+## Representative projects
 
-- Honest project status and clear roadmaps
-- Accessible, responsive interfaces
-- Testable foundations and automated quality checks
-- Open documentation and contribution guidance
+- [Architecture](https://github.com/Inmersion-CS/Architecture) — computer architecture, data representation, and system behavior.
+- [Java](https://github.com/Inmersion-CS/Java) — Java programming foundations, practice, and debugging.
+- [Calculus](https://github.com/Inmersion-CS/Calculus) — calculus learning through explanation, practice, and visualization.
+- [InfoSystems](https://github.com/Inmersion-CS/InfoSystems) — requirements, process modeling, data modeling, and systems thinking.
 
-Each repository README is the source of truth for its current capabilities, development commands, and roadmap.
+Other public subject projects remain available in the organization. Each repository README describes its current status, local development workflow, and roadmap.
