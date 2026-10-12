@@ -8,12 +8,8 @@ Projects are scoped around specific subjects so current capabilities, developmen
 
 `Computer systems` · `Programming` · `Mathematics` · `Information systems` · `Supporting university subjects`
 
-## Representative projects
+## Public projects
 
 - [Math-CS](https://github.com/Inmersion-CS/Math-CS) — interactive mathematics for computer science, including calculus, linear algebra, and geometry.
-- [Architecture](https://github.com/Inmersion-CS/Architecture) — computer architecture, data representation, and system behavior.
-- [Java](https://github.com/Inmersion-CS/Java) — Java programming foundations, practice, and debugging.
-- [Calculus](https://github.com/Inmersion-CS/Calculus) — calculus learning through explanation, practice, and visualization.
-- [InfoSystems](https://github.com/Inmersion-CS/InfoSystems) — requirements, process modeling, data modeling, and systems thinking.
 
-Other public subject projects remain available in the organization. Each repository README describes its current status, local development workflow, and roadmap.
+Additional course projects, including systems, programming, and information-systems work, are being developed in private repositories.
