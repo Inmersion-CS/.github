@@ -10,6 +10,7 @@ Projects are scoped around specific subjects so current capabilities, developmen
 
 ## Representative projects
 
+- [Math-CS](https://github.com/Inmersion-CS/Math-CS) — interactive mathematics for computer science, including calculus, linear algebra, and geometry.
 - [Architecture](https://github.com/Inmersion-CS/Architecture) — computer architecture, data representation, and system behavior.
 - [Java](https://github.com/Inmersion-CS/Java) — Java programming foundations, practice, and debugging.
 - [Calculus](https://github.com/Inmersion-CS/Calculus) — calculus learning through explanation, practice, and visualization.
